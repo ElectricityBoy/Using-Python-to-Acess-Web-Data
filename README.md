@@ -1,15 +1,19 @@
 # Using Python to Acess Web Data
 This repository is used to register all assingments and topics aboot the course Using Python to Acess Web Data by Michigan University
 
-[ ] Regular expressions
+- [x] Regular expressions
 
-[ ] Extracting Data
+- [x]  Extracting Data
 
-[ ] Hypertext Transfer Protocol (HTTP)
+- [x] Hypertext Transfer Protocol (HTTP)
 
-[ ] Networks and Sockets
+- [x]  Networks and Sockets
 
-[ ] Reading Web Data From Python
+- [x] Reading Web Data From Python
 
-[ ] Scraping HTML Data with BeautifulSoup
+- [x] Scraping HTML Data with BeautifulSoup
+
+- [ ] Web Services and XML 
+  
+- [ ] JSON and the REST Architecture 
 
